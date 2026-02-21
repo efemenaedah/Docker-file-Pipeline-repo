@@ -179,7 +179,7 @@ docker logs <container-id>
 
 ### 🎯 Hands-On Workshop: Build Pipeline in Jenkins UI
 
-**Step 1: Create Pipeline Job**
+**Step 1: Create a new Pipeline Job**
 - New Item → Pipeline
 - Name: `cloudspace-docker-demo`
 - Choose "Pipeline script" (not from SCM)
@@ -356,3 +356,4 @@ npm test -- --verbose
 - [Jenkins Pipeline Documentation](https://www.jenkins.io/doc/book/pipeline/)
 - [Docker Best Practices](https://docs.docker.com/develop/dev-best-practices/)
 - [Node.js in Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+
