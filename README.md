@@ -1,4 +1,4 @@
-# CloudSpace Academy - Jenkins Docker Demo
+#  - Jenkins Docker Demo
 
 A simple HTML website for teaching Jenkins CI/CD pipeline with Docker deployment.
 
